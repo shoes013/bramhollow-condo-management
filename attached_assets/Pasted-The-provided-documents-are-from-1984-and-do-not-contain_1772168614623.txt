@@ -1,0 +1,27 @@
+The provided documents are from 1984 and **do not contain any economic data, inflation indexes, or future cost projections to calculate 2026-2027 prices**. Because I can only draw upon the provided sources, I cannot update the figures to reflect modern inflation. 
+
+However, I can reconstruct the original budget and add the specific **Working Capital** funding requirements outlined in the documents. 
+
+According to the Purchase Agreement (Exhibit 11), each buyer is required to pay a one-time, non-refundable fee of **$250.00** at or before closing toward a **Working Capital Account**. This account is maintained by the Association specifically for maintenance and repairs to the Common Elements. Because there are **24 units** in the condominium, the total generated for this distinct Working Capital fund at initial closing would be **$6,000.00**.
+
+Here is the original proposed budget structure, updated to include the Working Capital funds as a separate line item as requested:
+
+**Estimated Income (Initial Year)**
+*   Common Charges (24 Units @ $86.00/month per Unit): $24,768.00
+*   **Working Capital Contributions (24 Units @ $250.00 one-time fee): $6,000.00**
+*   **Total Initial Funding Pool:** **$30,768.00**
+
+**General and Administrative Expenses (1984/1985 Prices)**
+*   **Part-Time Manager/Superintendent:** $5,200.00
+*   **Common Area Electricity and Heating:** $2,400.00
+*   **Insurance:** $6,274.00
+*   **Ground Maintenance and Snow Removal:** $2,400.00
+*   **Miscellaneous Expenses:** $1,294.00
+*   **Legal and Accounting:** $1,200.00
+*   **Contingency Reserve:** $2,400.00
+*   **Reserve for Replacement** *(Parking Area & Roof)*: $3,600.00
+*   **Working Capital Fund Allocation** *(Held for maintenance/repairs)*: **$6,000.00**
+
+**Total Allocated Funds:** **$30,768.00**
+
+*(Note: If you require these numbers updated to actual 2026-2027 prices, you will need to independently apply historical inflation rates or conduct a contemporary reserve study, as that information is outside the scope of these historical governing documents.)*
